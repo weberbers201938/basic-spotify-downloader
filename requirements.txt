@@ -1,2 +1,2 @@
 Flask==2.3.2
-spotdl==4.x.x 
+spotdl==4.2.8
