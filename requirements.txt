@@ -1,2 +1,2 @@
 Flask==2.3.2
-spotdl==4.0.5  # Make sure to use the latest stable version of spotDL
+spotdl==4.x.x 
