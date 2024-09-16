@@ -52,4 +52,4 @@ def download_file(unique_id, file_name):
 if __name__ == '__main__':
     if not os.path.exists(DOWNLOAD_DIR):
         os.makedirs(DOWNLOAD_DIR)
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=False)
